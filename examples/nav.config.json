@@ -125,6 +125,10 @@
               "title": "DateTimePicker 日期时间选择器"
             },
             {
+              "path": "/dateweek",
+              "title": "DateWeek 月份时间日期"
+            },
+            {
               "path": "/upload",
               "title": "Upload 上传"
             },
