@@ -69,14 +69,14 @@ For Vue 3.0, we recommend using [Element Plus](https://github.com/element-plus/e
 ## Install
 
 ```shell
-npm install element-ui-cus -S
+npm install element-ui-cust -S
 ```
 
 ## Quick Start
 
 ```javascript
 import Vue from 'vue';
-import Element from 'element-ui-cus';
+import Element from 'element-ui-cust';
 
 Vue.use(Element);
 
@@ -85,7 +85,7 @@ import {
   Select,
   Button
   // ...
-} from 'element-ui-cus';
+} from 'element-ui-cust';
 
 Vue.component(Select.name, Select);
 Vue.component(Button.name, Button);
