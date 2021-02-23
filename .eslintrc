@@ -6,6 +6,7 @@
   "plugins": ["html", "json"],
   "extends": "elemefe",
   "rules": {
+    "indent": ["off", 2],
     "no-restricted-globals": ["error", "event", "fdescribe"]
   },
   "parserOptions": {
